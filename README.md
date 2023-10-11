@@ -4,9 +4,8 @@ PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neo
 ## Installation
 
 I assume that the `neosnippets` plugin has already been properly installed.
-The snippets are stored in a single file called `python.snippets`.
+The snippets are stored in a single file called `pymolpy.snips`.
 I store this file in a folder called `~/.vim/my-snippets/neosnippets`.
-You may have to concatenate the `python.snippets` with an existing `python.snippets` file.
 
 ## Note
 
