@@ -4,4 +4,4 @@ PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neo
 ## Note
 
 Some snippets depend on some pymolshortcuts.
-Add the [pymolshortcuts.py](https://github.com/MooersLab/pymolshortcuts) file to working working directory.
+Add the [pymolshortcuts.py](https://github.com/MooersLab/pymolshortcuts) file to your working directory.
