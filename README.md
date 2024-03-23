@@ -1,5 +1,8 @@
+![Version](https://img.shields.io/static/v1?label=jupyter-neosnippets-pymolpysnips&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # jupyter-neosnippets-pymolpysnips
-PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neovim using the neosnippets plugin and the browser plugin GhostText
+PyMOL Python snippet library to edit live Jupyter notebook cells with Vim or Neovim using the neosnippets plugin and the browser plugin GhostText
 
 ## Installation
 
